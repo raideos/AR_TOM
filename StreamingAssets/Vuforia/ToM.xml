@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AgendaYuri" size="1.000000 1.294505" />
+    <ImageTarget name="AgendaLubricanto" size="1.000000 1.292952" />
+    <ImageTarget name="AgendaCodicex" size="1.000000 1.297117" />
+    <ImageTarget name="AgendaHyperion" size="1.000000 1.303965" />
+    <ImageTarget name="AgendaFuriante" size="1.000000 1.216326" />
+    <ImageTarget name="Yuri" size="1.000000 0.863399" />
+  </Tracking>
+</QCARConfig>
